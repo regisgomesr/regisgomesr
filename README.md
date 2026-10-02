@@ -8,14 +8,62 @@
 <a href="mailto:regisgomesr@gmail.com?subject=Hola%20Regis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
+## 🎯 About Me
 
-I'm a Full Stack developer 💻, passionate about JavaScript and TypeScript technologies and their entire ecosystem.
+I'm a Data Scientist and Data Engineer in training,
+with a background in IT (Bachelor's degree) and
+experience in Business Intelligence and data analysis.
 
-- 🔭 I’m currently working and studying JavaScript and TypeScript applications
-- 🌱 I’m currently taking the BootCamp GoStack course from Rocketseat.
-- 💬 Ask me about: technology, sports and a little bit about investments.
+I'm passionate about transforming raw data into
+meaningful insights that drive real business decisions.
 
-"Kaizen - Continuous improvement, today better than yesterday and tomorrow better than today."
+## 🚀 What I'm currently working on
+
+- 📊 Building data projects with Python and Pandas
+- 🗄️ Practicing SQL for data analysis
+- 📈 Creating dashboards with Power BI
+- ☁️ Learning Google Colab and cloud data tools
+- 🤖 Exploring Machine Learning fundamentals
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • SQL
+
+**Data & BI Tools:**
+Power BI • Pandas • NumPy • Google Colab
+
+**Database:**
+MySQL • PostgreSQL
+
+**Tools:**
+Git • GitHub • VS Code • Jupyter Notebook
+
+## 📂 Featured Projects
+
+🔹 **SAC Dashboard** — Customer service analysis
+with Power BI, data cleaning and table relationships
+
+*(More projects coming soon)*
+
+## 📚 Currently Studying
+
+- Python for Data Science
+- SQL Advanced
+- English (technical focus)
+- Data Engineering fundamentals
+
+## 🎓 Education & Training
+
+- 🎓 Bachelor's Degree in Information Technology
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](SEU_LINK_DO_LINKEDIN)
+
+---
+*"Data is the new oil — but only if you know how to refine it."*
+
 
 <br>
 <br>
