@@ -10,7 +10,7 @@
 </p>
 🎯 About Me
 
-I'm a Data Scientist and Data Engineer in training,
+I'm a Data Engineer in training,
 with a background in IT (Bachelor's degree) and
 experience in Business Intelligence and data analysis.
 
